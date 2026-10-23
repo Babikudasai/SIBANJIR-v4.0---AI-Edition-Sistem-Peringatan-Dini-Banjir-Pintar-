@@ -7,18 +7,18 @@
 #define USE_BLYNK 1
 
 // ====== KREDENSIAL CLOUD, JARINGAN & API ======
-#define BLYNK_TEMPLATE_ID   "TMPL6q4kWETsg"
+#define BLYNK_TEMPLATE_ID   "TMPL******"
 #define BLYNK_TEMPLATE_NAME "SiBanjir Fitcom X Fitra Ajax Technologies"
-#define BLYNK_AUTH_TOKEN    "lJRvffp6tN9y4g4WMNKteA0iof-qtA9J"
+#define BLYNK_AUTH_TOKEN    "*******"
 
-const char* WIFI_SSID = "Dental W11";
-const char* WIFI_PASS = "agamrosyidi";
+const char* WIFI_SSID = "******";
+const char* WIFI_PASS = "*****";
 
 const char* OTA_HOSTNAME = "sibanjir";
 const char* OTA_PASSWORD = "9";
 
 // Konfigurasi OpenWeatherMap API
-String OPENWEATHER_API_KEY = "7f2627db2d334bdacb7b3afe8ccec8de";
+String OPENWEATHER_API_KEY = "*********";
 String CITY_NAME = "Surabaya,ID"; // Disesuaikan dengan basis Anda
 // ===========================================
 
